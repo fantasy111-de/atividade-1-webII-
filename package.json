@@ -1,0 +1,35 @@
+{
+  "name": "prog.web-ii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "async": "^3.2.6",
+    "balanced-match": "^1.0.2",
+    "body-parser": "^1.20.3",
+    "brace-expansion": "^1.1.11",
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "concat-map": "^0.0.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "filelist": "^1.0.4",
+    "has-flag": "^4.0.0",
+    "jake": "^10.9.2",
+    "minimatch": "^3.1.2",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.4",
+    "pg": "^8.13.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3",
+    "supports-color": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivi",
+  "license": "ISC",
+  "description": ""
+}
